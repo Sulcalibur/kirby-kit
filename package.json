@@ -9,7 +9,7 @@
     "gulp": "^3.8.11",
     "gulp-autoprefixer": "^2.1.0",
     "gulp-concat": "^2.5.2",
-    "gulp-connect-php": "0.0.5",
+    "gulp-connect-php": "1.0.3",
     "gulp-download": "0.0.1",
     "gulp-imagemin": "^2.2.1",
     "gulp-jshint": "^1.9.2",
