@@ -13,7 +13,7 @@
     "gulp-download": "0.0.1",
     "gulp-imagemin": "^2.2.1",
     "gulp-jshint": "^1.9.2",
-    "gulp-livereload": "^3.8.0",
+    "gulp-livereload": "^4.0.2",
     "gulp-minify-css": "^0.5.1",
     "gulp-modernizr": "^1.0.0-alpha",
     "gulp-plumber": "^1.0.1",
